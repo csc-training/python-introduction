@@ -11,14 +11,18 @@ welcome and we don't make any promises to maintain the page.
 
 First install virtualenvwrapper on your local machine.
 
+```
   $ mkvirtualenv -p python3 python-intro
   [...]
   (python-intro) $ pip install -r requirements.txt
   (python-intro) $ jupyter notebook
+```
 
 ## Setting up a docker container in Pebbles
 
 ToDo: implement and write up
 
-License: Code licensed under MIT License. Examples and non-code artefacts
+
+## License
+Code licensed under MIT License. Examples and non-code artefacts
 licensed under Creative Commons BY
