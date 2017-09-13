@@ -1,0 +1,4 @@
+Python is modern, object-oriented programming language which has become popular in several areas of software development. This course introduces the basic concepts of the Python programming language and how Python can ne used in the context of scientific computing. Examples include prototyping numerical problems with Python, steering simulations with Python scripts and analysing results with the help of Python scripts. Course consists of lectures and of hands-on exercises.
+
+Participants are expected to know basic programming concepts (e.g. variables, statements, control structures, subroutines) but previous knowledge of Python is not required.
+
