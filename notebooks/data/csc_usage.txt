@@ -1,0 +1,6 @@
+# discipline      usage  %
+Physics            33
+Biosciences        20
+Chemistry          17
+Astronomy           8
+Others             22
